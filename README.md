@@ -3,22 +3,22 @@
 ## Aio39
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-868951%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-978159%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.87% 
-PHP                      3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   22.69% 
-Blade Template           3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08% 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+PHP                      4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.83% 
+Blade Template           3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96% 
+TypeScript               3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.9% 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
 
 ```
 
 
- Last Updated on 04/07/2021
+ Last Updated on 05/07/2021
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
