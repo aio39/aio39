@@ -9,7 +9,7 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 56 mins      ███████████████████░░░░░░   78.63% 
+TypeScript               20 hrs 57 mins      ███████████████████░░░░░░   78.64% 
 JavaScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
 JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 YAML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
@@ -18,7 +18,7 @@ Other                    16 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
