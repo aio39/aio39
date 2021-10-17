@@ -9,13 +9,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   26 hrs 43 mins      ████████████████████████░   97.92% 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+Python                   31 hrs 9 mins       ████████████████████████░   98.21% 
+Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 ```
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
