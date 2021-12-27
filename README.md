@@ -9,12 +9,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ████████████░░░░░░░░░░░░░   49.74% 
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49% 
+GraphQL                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   22.69% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 ```
 
 
- Last Updated on 26/12/2021
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
