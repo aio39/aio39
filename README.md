@@ -9,12 +9,12 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      13 mins             █████████████████████████   100.0%
+PHP                      12 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
