@@ -9,16 +9,12 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 34 mins        █████████████████████░░░░   87.33% 
-CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/02/2022 18:53:53 UTC
+ Last Updated on 03/02/2022 18:53:43 UTC
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
