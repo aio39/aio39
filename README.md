@@ -9,12 +9,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ███████████████████████░░   92.11% 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 05/02/2022 18:46:44 UTC
+ Last Updated on 06/02/2022 18:53:24 UTC
 <!--END_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39)](https://github.com/anuraghazra/github-readme-stats)
 
