@@ -35,9 +35,20 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
-<!--START_SECTION:wakaa-->
 
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+## ℹ️ My Status
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap:1rem">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=aio39&show_icons=true&count_private=true&line_height=27" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aio39&hide=CSS,HTML,SCSS,Blade,Pug&langs_count=3" />
+</div>
+
+## 🔥 This Week I Spent My Time On
+
+<!-- <div style="padding-bottom: 10px;" >
+    <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=aio39&layout=compact" />
+</div> -->
+<!--START_SECTION:wakaa-->
 
 📊 **This Week I Spent My Time On**
 
@@ -54,19 +65,6 @@ Git Config               21 mins             ░░░░░░░░░░░�
 Last Updated on 05/05/2022 18:59:36 UTC -->
 
 <!--END_SECTION:wakaa-->
-
-## ℹ️ My Status
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap:1rem">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=aio39&show_icons=true&count_private=true&line_height=27" />
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aio39&hide=CSS,HTML,SCSS,Blade,Pug&langs_count=3" />
-</div>
-
-## 🔥 This Week I Spent My Time On
-
-<div style="padding-bottom: 10px;" >
-    <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=aio39&layout=compact" />
-</div>
 
 <!-- ![Aio39's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39&show_icons=true&count_private=true) -->
 
