@@ -48,7 +48,7 @@
 <!-- <div style="padding-bottom: 10px;" >
     <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=aio39&layout=compact" />
 </div> -->
-<!--START_SECTION:wakaa-->
+<!--START_SECTION:waka-->
 
 📊 **This Week I Spent My Time On**
 
@@ -64,7 +64,7 @@ Git Config               21 mins             ░░░░░░░░░░░�
 
 Last Updated on 05/05/2022 18:59:36 UTC -->
 
-<!--END_SECTION:wakaa-->
+<!--END_SECTION:waka-->
 
 <!-- ![Aio39's GitHub stats](https://github-readme-stats.vercel.app/api?username=aio39&show_icons=true&count_private=true) -->
 
