@@ -49,8 +49,6 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=aio39&layout=compact" />
 </div> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%206%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
