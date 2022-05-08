@@ -43,7 +43,7 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aio39&hide=CSS,HTML,SCSS,Blade,Pug&langs_count=3" />
 </div>
 
-## 🔥 This Week I Spent My Time On
+<!-- ## 🔥 This Week I Spent My Time On -->
 
 <!-- <div style="padding-bottom: 10px;" >
     <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=aio39&layout=compact" />
