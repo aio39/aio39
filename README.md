@@ -53,10 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-it_lectrue               9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
