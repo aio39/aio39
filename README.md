@@ -53,10 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+it_lectrue               0 secs              █████████████████████████   100.0%
 
 ```
 
