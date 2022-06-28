@@ -53,10 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+miko-nest                0 secs              █████████████████████████   100.0%
 
 ```
 
