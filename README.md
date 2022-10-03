@@ -53,10 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rust-lang-book           4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
