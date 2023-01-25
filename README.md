@@ -53,10 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-stamp-electron-app    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
