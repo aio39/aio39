@@ -53,11 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
+Game2Text-main           15 mins             █████████████████████████   100.00 % 
 ```
 
 
